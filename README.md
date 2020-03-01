@@ -1,2 +1,2 @@
-# Datastructure_Algorithms
+# Datastructure Algorithms in C#
 Datastructure and algorithms implementation
